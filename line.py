@@ -1,5 +1,4 @@
-for count in range(8):
+num = input("how long of the line do you want? ")
+for i in range(int(num)):
     print("*", end="")
 print("")
-  
-
